@@ -1,1 +1,2 @@
-# Airline_Project
+# Airline
+This is a fullstack project
