@@ -1,2 +1,2 @@
 # Airline
-This is a fullstack project
+This is a 100 % Java based project
